@@ -10,7 +10,7 @@ export default function App() {
           name: "HSSAINI ABDESSAMAD",
           posts: "D4M45",
           bio:
-            "Hello 👋, my name is Abdessamad. Software Engineer Student at ENSA   & 1337 KHOURIBGA, focusing on Web Dev technologies.",
+            "Hello 👋, my name is DAMAS. Software Engineer Student at ENSA   & 1337 KHOURIBGA, focusing on Web Dev technologies.",
           location: "KHOURIBGA, MOROCCO",
           technologies: [
             "Javascript",
